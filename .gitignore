@@ -1,0 +1,7 @@
+# node.js
+node_modules
+
+# IDE folders
+.idea
+.vscode
+.vs
