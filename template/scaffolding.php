@@ -3,7 +3,7 @@
     <?php include TEMPLATE_DIR.'head.php'; ?>
     <body>
         <header>
-            <?php include TEMPLATE_DIR.'top.php'; ?>
+            <?php include TEMPLATE_DIR.'header.php'; ?>
         </header>
         <main>
             {view}
